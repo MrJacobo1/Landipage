@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@1,300&display=swap');
+/* font-family: 'Open Sans', sans-serif*/
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap');
+/* font-family: 'Poppins', sans-serif;*/
+div{
+    display: block;
+}
+h1{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 2.65rem;
+}
+h2{
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.25rem;
+    line-height: 1.75;
+    font-weight: 400;
+}
+#parrafo{
+    box-sizing: border-box;
+}
+#imagen{
+    box-sizing: border-box;
+    padding: 2rem 2.5rem;
+}
+#imagen1{
+    box-sizing: border-box;
+    border-radius: 50%;
+}
+#Opiniones h1{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 2.65rem;
+}
+#Opiniones h5{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+}
+#Opiniones{
+    width: 100%;
+}
+#Opiniones p{
+    font-family: 'Poppins', sans-serif;
+}
+#remarcar:hover{
+    box-shadow: 5px solid #ffb700;
+}
+#imagen-menu{
+    width: 20%;
+}
+.divisor{
+    margin: 5rem 0;
+}
+.featurette-heading{
+    font-weight: bold;
+    line-height: 1;
+    font-family: 'Open Sans', sans-serif
+}
+.caracteristicas{
+    margin-right: 5rem;
+    margin-left: 5rem;
+}
